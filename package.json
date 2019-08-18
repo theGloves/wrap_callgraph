@@ -1,0 +1,29 @@
+{
+  "name": "wrap_callgraph",
+  "version": "0.0.1",
+  "description": "golang static callgraph, a python wrapper of golang.org/tools/cmd/callgraph",
+  "main": "index.js",
+  "dependencies": {
+    "commitizen": "^4.0.3",
+    "cz-conventional-changelog": "^3.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theGloves/wrap_callgraph.git"
+  },
+  "keywords": [
+    "golang",
+    "callgraph",
+    "static"
+  ],
+  "author": "theGloves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theGloves/wrap_callgraph/issues"
+  },
+  "homepage": "https://github.com/theGloves/wrap_callgraph#readme"
+}
