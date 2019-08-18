@@ -1,9 +1,11 @@
 {
   "name": "wrap_callgraph",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "golang static callgraph, a python wrapper of golang.org/tools/cmd/callgraph",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "standard-version": "^7.0.0"
+  },
   "devDependencies": {
     "commitizen": "^4.0.3",
     "cz-conventional-changelog": "^3.0.2"
