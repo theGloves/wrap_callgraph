@@ -4,7 +4,7 @@
   "description": "golang static callgraph, a python wrapper of golang.org/tools/cmd/callgraph",
   "main": "index.js",
   "dependencies": {
-    "standard-version": "^7.0.0"
+    "standard-version": "^8.0.1"
   },
   "devDependencies": {
     "commitizen": "^4.0.3",
